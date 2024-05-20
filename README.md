@@ -1,2 +1,6 @@
-# bee_house_int
-zetafe1/bee_house_int
+# Fix interior Breechers Hope Ranch House
+
+Interior for Breechers Hope Ranch House
+
+- bath room transformed in sleeping room 
+- attic re-decorated
