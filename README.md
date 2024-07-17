@@ -1,6 +1,6 @@
-# Fix interior Beechers Hope Ranch House
+# Fix interior Beecher's Hope Ranch House
 
-Interior for Beechers Hope Ranch House
+Interior for Beecher's Hope Ranch House
 
 you need to have this interior activated
 
