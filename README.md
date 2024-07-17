@@ -1,6 +1,6 @@
-# Fix interior Breechers Hope Ranch House
+# Fix interior Beechers Hope Ranch House
 
-Interior for Breechers Hope Ranch House
+Interior for Beechers Hope Ranch House
 
 - bath room transformed in sleeping room 
 - fixed living room
