@@ -2,6 +2,19 @@
 
 Interior for Beechers Hope Ranch House
 
+you need to have this interior activated
+
+ActivateInteriorEntitySets(50690, "Beechers", {
+		"bee_01_masterBR_bed01",
+		"Beechers_decorated_after_Abigail3",
+		"IntGrp_livingrm_furniture_basic",
+		"bee_01_house_fireplace_on",
+		"BEECHERS_PIANO_STOOL",
+		"bee_01_house_chair",
+		"Beechers_fully_decorated_finale"
+	})
+
+FIX for:
 - bath room transformed in sleeping room 
 - fixed living room
 - attic re-decorated
@@ -13,3 +26,4 @@ Interior for Beechers Hope Ranch House
 ![bee_h_int2](https://github.com/zetafe1/bee_house_int/assets/79672264/18493121-f253-4109-9fd1-96307ef3d0bd)
 ![bee_h_int5](https://github.com/zetafe1/bee_house_int/assets/79672264/07c0ded6-d7bd-47b2-8acf-eb77f19f141f)
 ![bee_h_int6](https://github.com/zetafe1/bee_house_int/assets/79672264/00ab08b2-dbac-419c-994b-25226d591a11)
+
